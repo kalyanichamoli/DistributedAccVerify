@@ -18,6 +18,8 @@ I assume here to general person have some basic knowledge of urls and understand
 
 It can further add more info for signature to make it tougher for person to fake his/ her validation.
 
-
+```
+Run Main class for demo : org.help.wallet.WalletUserApp.java
+```
 
 Thanks for reading all this.  
